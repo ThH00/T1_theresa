@@ -1,5 +1,5 @@
 #!/bin/bash
-
+luck_Function(){
 echo "Enter your lucky number"
 read n
 
@@ -9,4 +9,5 @@ echo "You win!"
 else
 echo "You loose"
 fi
+}
 
