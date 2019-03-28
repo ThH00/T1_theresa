@@ -1,0 +1,17 @@
+Author: Theresa Honein <terryhonein@gmail.com>
+Date:   Thu Mar 28 10:43:21 2019 +0200
+
+    modifies luvkfunction
+
+commit ac39add7cb51810461773ac3c50caa0c1256a54f
+Author: Theresa Honein <terryhonein@gmail.com>
+Date:   Thu Mar 28 10:38:27 2019 +0200
+
+    adding changes
+
+commit 7b99d4aa9e0dfcd22e34a18dd8e9cf35b480eec1
+Author: Theresa Honein <terryhonein@gmail.com>
+Date:   Thu Mar 28 10:17:20 2019 +0200
+
+    copied folder and initilized a git repository
+
