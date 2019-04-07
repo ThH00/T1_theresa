@@ -1,0 +1,4 @@
+alias cm='git commit -m'
+alias sb='source ~/.bashrc'
+# we source the bashrc to make changes we made in it readily available without having to open a new terminal
+alias cdd='pwd; cd ~/Desktop' 

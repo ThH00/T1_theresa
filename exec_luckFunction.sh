@@ -11,3 +11,4 @@ echo "You loose"
 fi
 }
 
+luck_Function
